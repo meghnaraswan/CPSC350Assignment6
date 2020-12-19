@@ -1,4 +1,4 @@
-#CPSC350Assignment6
+# CPSC350Assignment6
 
 Sorting Algorithms 
 
