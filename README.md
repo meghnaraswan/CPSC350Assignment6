@@ -6,7 +6,7 @@ raswan@chapman.edu
 
 CPSC 350
 
-Assignment 4
+Assignment 6
 
 Files:
 
